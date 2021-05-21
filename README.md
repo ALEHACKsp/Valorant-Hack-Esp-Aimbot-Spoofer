@@ -1,7 +1,8 @@
-* Item 1
-*This text will be italic*
-_This will also be italic_
-# This is an <h1> tag
-## This is an <h2> tag
-###### This is an <h6> tag
-1. Item 1
+
+# Updates <h1> tag
+* Keyboard input lag fixed
+* New sha256 hash system
+* Increased performance, faster reaction time. (27 ms Average time)
+* Higher Security.
+* Added Full-Auto Mode.
+* Holding down operating mode added continuous operation removed.
