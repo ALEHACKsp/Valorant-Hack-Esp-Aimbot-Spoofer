@@ -1,3 +1,9 @@
+# Steps to be followed
+* Download Zip
+* Extract files 
+* Open ValorantEsp.sln
+* Debug Files
+* enjoy
 
 # Updates
 * Keyboard input lag fixed
