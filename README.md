@@ -3,7 +3,7 @@
 * Extract files 
 * Open ValorantEsp.sln
 * Debug Files
-* enjoy
+* Enjoy
 
 # Updates
 * Keyboard input lag fixed
