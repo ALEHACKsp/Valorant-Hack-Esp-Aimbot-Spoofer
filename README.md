@@ -13,3 +13,8 @@
 * Higher Security.
 * Added Full-Auto Mode.
 * Holding down operating mode added continuous operation removed.
+
+# To-Do
+* Valorant Antiban = Bypass
+
+# Photo
