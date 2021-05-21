@@ -1,5 +1,5 @@
 
-# Updates <h1> tag
+# Updates <h1>
 * Keyboard input lag fixed
 * New sha256 hash system
 * Increased performance, faster reaction time. (27 ms Average time)
